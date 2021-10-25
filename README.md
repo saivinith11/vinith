@@ -1,2 +1,2 @@
 # vinith
-vinith repo
+vinith repo for git commands demonstration
